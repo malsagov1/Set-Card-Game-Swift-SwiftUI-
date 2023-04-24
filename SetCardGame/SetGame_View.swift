@@ -1,6 +1,6 @@
 //
-//  EmojiMemoryGameView.swift
-//  Memorize
+//  GameView.swift
+//  
 //
 //  Created by Умар Мальсагов on 13.08.2021.
 //
