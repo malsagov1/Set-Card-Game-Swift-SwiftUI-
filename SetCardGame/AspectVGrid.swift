@@ -1,6 +1,6 @@
 //
 //   AspectVGrid.swift
-//  Memorize
+//  
 //
 //  Created by Умар Мальсагов on 14.11.2021.
 //
