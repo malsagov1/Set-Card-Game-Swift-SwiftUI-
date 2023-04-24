@@ -1,6 +1,6 @@
 //
 //  CardView.swift
-//  Memorize
+//  
 //
 //  Created by Умар Мальсагов on 13.08.2021.
 //
